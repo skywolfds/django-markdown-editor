@@ -6,4 +6,4 @@ dist/
 *.pyc
 *note
 *backup*
-"dev_env/" 
+dev_env/ 
